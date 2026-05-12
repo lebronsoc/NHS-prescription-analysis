@@ -143,7 +143,8 @@ Used Tableau containers and layout structuring to create a clean and professiona
 # 📸 Interactive Dashboard
 
 ## Tableau Public Dashboard
-https://public.tableau.com/views/NHS_Prescription_Analytics_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+[View the Interactive Tableau Dashboard](https://public.tableau.com/views/NHS_Prescription_Analytics_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
